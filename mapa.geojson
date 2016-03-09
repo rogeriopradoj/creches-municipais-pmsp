@@ -1,0 +1,511 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400001,
+        "name": "ADELAIDE LOPES RODRIGUES",
+        "status": 0,
+        "phone": 29503571,
+        "type": "CEI DIRET",
+        "cep": "02034006",
+        "logradouro": "ALFERES MAGALHÃES",
+        "logradouro_numero": "211   ",
+        "bairro": "SANTANA",
+        "distrito": "SANTANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.624418,
+          -23.505033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400005,
+        "name": "ANITA CASTALDI ZAMPIROLLO, PROFA.",
+        "status": 0,
+        "phone": 29500224,
+        "type": "CEI DIRET",
+        "cep": "02013002",
+        "logradouro": "RUA DOUTOR CESAR",
+        "logradouro_numero": "485   ",
+        "bairro": "SANTANA",
+        "distrito": "SANTANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.630999,
+          -23.502847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400021,
+        "name": "CANTIDIO NOGUEIRA SAMPAIO, VER.",
+        "status": 0,
+        "phone": 29953485,
+        "type": "CEI DIRET",
+        "cep": "02365008",
+        "logradouro": "VICENTE QUEROL",
+        "logradouro_numero": "150   ",
+        "bairro": "JARDIM SÃO JOÃO (ZONA NORTE)",
+        "distrito": "TREMEMBE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.584652,
+          -23.437227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400265,
+        "name": "CELIA REGINA KUHL, PROFA",
+        "status": 0,
+        "phone": 29526558,
+        "type": "CEI DIRET",
+        "cep": "02355270",
+        "logradouro": "RUA CAETANO TEIXEIRA",
+        "logradouro_numero": "291   ",
+        "bairro": "JARDIM VIRGINIA BIANCA",
+        "distrito": "TREMEMBE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.61006,
+          -23.453157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400030,
+        "name": "CIDADE NOVA DO PARQUE NOVO MUNDO",
+        "status": 0,
+        "phone": 29558724,
+        "type": "CEI DIRET",
+        "cep": "02169290",
+        "logradouro": "NOSSA SENHORA DA APARECIDA",
+        "logradouro_numero": "215   ",
+        "bairro": "PARQUE VILA MARIA",
+        "distrito": "VILA MARIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.575367,
+          -23.520214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400237,
+        "name": "CRISTINA, ME.",
+        "status": 0,
+        "phone": 29943072,
+        "type": "CEI DIRET",
+        "cep": "02409060",
+        "logradouro": "INÁCIO MAMMANA",
+        "logradouro_numero": "363   ",
+        "bairro": "VILA VITÓRIO MAZZEI",
+        "distrito": "MANDAQUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.626626,
+          -23.476334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400046,
+        "name": "ERMANO MARCHETTI, VER.",
+        "status": 0,
+        "phone": 22049463,
+        "type": "CEI DIRET",
+        "cep": "02318230",
+        "logradouro": "RUA NOVA LONDRINA",
+        "logradouro_numero": "151   ",
+        "bairro": "VILA PAULISTANA",
+        "distrito": "TREMEMBE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.592444,
+          -23.453022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400047,
+        "name": "FERNAO DIAS",
+        "status": 0,
+        "phone": "2931-6917",
+        "type": "CEI DIRET",
+        "cep": "02161140",
+        "logradouro": "MERINO",
+        "logradouro_numero": "30    ",
+        "bairro": "JARDIM JULIETA",
+        "distrito": "VILA MEDEIROS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.56584,
+          -23.486071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400048,
+        "name": "FRANCISCO MARCONDES OLIVEIRA, VER.",
+        "status": 0,
+        "phone": 22492164,
+        "type": "CEI DIRET",
+        "cep": "02234000",
+        "logradouro": "CARLOS DOS SANTOS",
+        "logradouro_numero": "815   ",
+        "bairro": "JARDIM BRASIL (ZONA NORTE)",
+        "distrito": "VILA MEDEIROS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.572684,
+          -23.47946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400077,
+        "name": "JARDIM DAS PEDRAS",
+        "status": 0,
+        "phone": 29925776,
+        "type": "CEI DIRET",
+        "cep": "02367010",
+        "logradouro": "ENGENHEIRO ANTÔNIO DE TOLEDO",
+        "logradouro_numero": "S/N   ",
+        "bairro": "JARDIM DAS PEDRAS",
+        "distrito": "TREMEMBE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.590824,
+          -23.419435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400088,
+        "name": "JARDIM JAPAO",
+        "status": 0,
+        "phone": 29318368,
+        "type": "CEI DIRET",
+        "cep": "02132000",
+        "logradouro": "PRESIDENTE JÂNIO DA SILVA QUADROS",
+        "logradouro_numero": "270   ",
+        "bairro": "JARDIM JAPÃO",
+        "distrito": "VILA MARIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.583719,
+          -23.500363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400154,
+        "name": "JOAQUIM THOME FILHO, VER.",
+        "status": 0,
+        "phone": 22317168,
+        "type": "CEI DIRET",
+        "cep": "02635110",
+        "logradouro": "RUA PROFESSOR LUIS AMARAL WAGNER",
+        "logradouro_numero": "243   ",
+        "bairro": "VILA PEDRA BRANCA",
+        "distrito": "MANDAQUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.644473,
+          -23.455409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400167,
+        "name": "LAUZANE PAULISTA",
+        "status": 0,
+        "phone": 22317455,
+        "type": "CEI DIRET",
+        "cep": "02443102",
+        "logradouro": "SANTO ESTEVÃO DE BRITEIROS",
+        "logradouro_numero": "25    ",
+        "bairro": "LAUZANE PAULISTA",
+        "distrito": "MANDAQUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.647072,
+          -23.474434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400173,
+        "name": "MARIA AUXILIADORA DA SILVA",
+        "status": 0,
+        "phone": 22422973,
+        "type": "CEI DIRET",
+        "cep": "02276100",
+        "logradouro": "RUA ANGELO ALOISIO",
+        "logradouro_numero": "145   ",
+        "bairro": "GUAPIRA",
+        "distrito": "JACANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.584068,
+          -23.459699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400175,
+        "name": "MARIA HENRIQUETA CATITE",
+        "status": 0,
+        "phone": 29546099,
+        "type": "CEI DIRET",
+        "cep": "02118001",
+        "logradouro": "RUA DOM LUIS FELIPE DE ORLEANS",
+        "logradouro_numero": "1000  ",
+        "bairro": "VILA MARIA BAIXA",
+        "distrito": "VILA MARIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.586697,
+          -23.519534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400180,
+        "name": "MARIO DA COSTA BARBOSA",
+        "status": 0,
+        "phone": 29544787,
+        "type": "CEI DIRET",
+        "cep": "02188070",
+        "logradouro": "SARGENTO JETER AUGUSTO PEREIRA",
+        "logradouro_numero": "121   ",
+        "bairro": "PARQUE NOVO MUNDO",
+        "distrito": "VILA MARIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.566186,
+          -23.512167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400195,
+        "name": "PARQUE CASA DE PEDRA",
+        "status": 0,
+        "phone": 29533650,
+        "type": "CEI DIRET",
+        "cep": "02322210",
+        "logradouro": "RUA CANTO DO ENGENHO",
+        "logradouro_numero": "288   ",
+        "bairro": "PARQUE CASA DE PEDRA",
+        "distrito": "TREMEMBE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.596295,
+          -23.448695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400377,
+        "name": "PARQUE EDU CHAVES",
+        "status": 0,
+        "phone": 22405722,
+        "type": "CEI DIRET",
+        "cep": "02229070",
+        "logradouro": "RUA HINTEM MARTINS",
+        "logradouro_numero": "390   ",
+        "bairro": "PARQUE EDU CHAVES",
+        "distrito": "JACANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.566185,
+          -23.480509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400204,
+        "name": "PARQUE NOVO MUNDO",
+        "status": 0,
+        "phone": 29540520,
+        "type": "CEI DIRET",
+        "cep": "02180040",
+        "logradouro": "SOLDADO FRANCISCO FRANCO",
+        "logradouro_numero": "351   ",
+        "bairro": "PARQUE NOVO MUNDO",
+        "distrito": "VILA MARIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.565682,
+          -23.520641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400238,
+        "name": "VILA BASILEIA",
+        "status": 0,
+        "phone": 22395776,
+        "type": "CEI DIRET",
+        "cep": "02471050",
+        "logradouro": "DOUTOR SOARES BRANDÃO FILHO",
+        "logradouro_numero": "40    ",
+        "bairro": "VILA BASILEIA",
+        "distrito": "MANDAQUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.651731,
+          -23.481167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400245,
+        "name": "VILA CONSTANCA",
+        "status": 0,
+        "phone": 22405267,
+        "type": "CEI DIRET",
+        "cep": "02258220",
+        "logradouro": "SÃO GERALDINO",
+        "logradouro_numero": "S/N   ",
+        "bairro": "VILA CONSTANÇA",
+        "distrito": "JACANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.583248,
+          -23.475924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400249,
+        "name": "VILA GUSTAVO",
+        "status": 0,
+        "phone": 29818517,
+        "type": "CEI DIRET",
+        "cep": "02255130",
+        "logradouro": "RUA JOAO ROSA",
+        "logradouro_numero": "8     ",
+        "bairro": "VILA NIVI",
+        "distrito": "TUCURUVI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.592046,
+          -23.478349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 400095,
+        "name": "WILSON DANGELO BRAZ, PROF.",
+        "status": 0,
+        "phone": 22398534,
+        "type": "CEI DIRET",
+        "cep": "02475000",
+        "logradouro": "DIREITOS HUMANOS",
+        "logradouro_numero": "717   ",
+        "bairro": "IMIRIM",
+        "distrito": "MANDAQUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.649791,
+          -23.483501
+        ]
+      }
+    }
+  ]
+}
